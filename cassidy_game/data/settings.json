@@ -1,0 +1,16 @@
+{
+  "audio": {
+    "volume": 0.8,
+    "mute": false
+  },
+  "language": "en",
+  "fullscreen": false,
+  "resolution": [1280, 720],
+  "controls": {
+    "move_up": "W",
+    "move_down": "S",
+    "move_left": "A",
+    "move_right": "D",
+    "interact": "E"
+  }
+}

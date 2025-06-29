@@ -1,0 +1,13 @@
+{
+  "player": {
+    "name": "Cassidy",
+    "position": [100, 100],
+    "current_scene": "menu",
+    "inventory": [],
+    "completed_levels": []
+  },
+  "settings": {
+    "volume": 0.8,
+    "language": "en"
+  }
+}
